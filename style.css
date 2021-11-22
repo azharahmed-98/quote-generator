@@ -15,7 +15,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-#container {
+#quote-container {
   opacity: 0.8;
   background: #fff;
   position: absolute;
